@@ -1,5 +1,5 @@
 Sources And Links
-RG353V Android 1.20e: https://drive.google.com/file/d/1EH5bzLU1qnMRoVGyhQTGxCUbCOfbyINN/view
+RG353V Android 1.20e: https://drive.google.com/file/d/1EH5bzLU1qnMRoVGyhQTGxCUbCOfbyINN/view /n
 Playstore Tutorial: https://victoriemini.com/consoles-portateis/anbernic/rg353m/
 Editing system.img inside super.img: https://forum.xda-developers.com/t/editing-system-img-inside-super-img-and-flashing-our-modifications.4196625/
 RockChip's firmware images unpacker/packer: https://forum.xda-developers.com/t/tool-imgrepackerrk-rockchips-firmware-images-unpacker-packer.2257331/
